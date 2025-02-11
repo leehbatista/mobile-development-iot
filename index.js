@@ -84,6 +84,6 @@ processar(() => console.log("Finalizado!"));
 async function pegarDados() {
     return "Dados recebidos!";
 }
-pegarDados().then(console.log); // Usa .then para lidar com a resposta
+pegarDados().then(console.log); // Usa .then para lidar com a resposta.
 
 
